@@ -78,6 +78,11 @@ ul.task-list li input[type="checkbox"] {
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">DataSquared</span>
+    </a>
+  </div>
             <div id="quarto-search" class="" title="Search"></div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
@@ -109,25 +114,9 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">DataSquared</h1>
-</div>
+<main class="content column-page" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
 
-
-<div class="quarto-title-meta column-page">
-
-    
-  
-    
-  </div>
-  
-
-
-</header>
 
 
 
@@ -137,12 +126,12 @@ ul.task-list li input[type="checkbox"] {
     <title>Landing Page</title>
     <style>
 
-        .hero-section {
+        /* .hero-section {
             background-color: #212529;
             color: white;
             text-align: center;
             padding: 100px 20px;
-        }
+        } */
 
         .container {
           display: flex;
@@ -187,6 +176,40 @@ ul.task-list li input[type="checkbox"] {
         .box3 {
           border-bottom: 5px solid #3357FF; /* Blue */
         }
+
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            background-color: #ffffff;
+        }
+
+        .container-affiliate {
+            margin: 50px auto;
+            width: 80%;
+        }
+
+        .underline {
+            width: 100px;
+            height: 3px;
+            background-color: #1a9cf3;
+            margin: 5px auto 30px auto;
+        }
+
+        .logos-affiliate {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: center;
+            gap: 50px;
+        }
+
+        .logos-affiliate img {
+            max-width: 180px;
+            height: auto;
+            filter: grayscale(100%);
+        }
     </style>
 
 
@@ -223,63 +246,18 @@ ul.task-list li input[type="checkbox"] {
     </div>
 </div>
 
-
-
-
-
-
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Who We Work With</title>
-    <style>
-        /* body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            margin: 0;
-            padding: 0;
-            background-color: #ffffff;
-        } */
-
-        .container {
-            margin: 50px auto;
-            width: 80%;
-        }
-
-        .underline {
-            width: 100px;
-            height: 3px;
-            background-color: #1a9cf3;
-            margin: 5px auto 30px auto;
-        }
-
-        .logos {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-            align-items: center;
-            gap: 50px;
-        }
-
-        .logos img {
-            max-width: 180px;
-            height: auto;
-            filter: grayscale(100%);
-        }
-
-    </style>
-
-
-   <h2 class="anchored">Who We Work With</h2>
+<h2 class="anchored">Who We Work With</h2>
    <div class="underline"></div>
 
-    <div class="container">
-        <div class="logos">
+    <div class="container-affiliate">
+        <div class="logos-affiliate">
             <img src="files/img/doc-logo.png" alt="Department of Conservation">
             <img src="files/img/vuw-logo.png" alt="Victoria University of Wellington">
             <img src="files/img/swb-logo.png" alt="Statistics Without Borders">
         </div>
 
     </div>
+
 
 
 
