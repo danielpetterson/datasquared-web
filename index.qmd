@@ -1,5 +1,5 @@
 ---
-title: "Empowering Decisions with Data: Expert R & Shiny Solutions"
+title: ""
 # subtitle:
 # image:
 details: |
@@ -88,19 +88,19 @@ format: html
 <div class="container">
     <div class="box box1">
       <img src="./files/icon_gen/output/simulation_hex.png" alt="Simulation">
-      <h3>Simulation</h3>
+      <h4>Simulation</h4>
       <p>Discrete-event simulation allows organisations to optimise resource allocation and improve process efficiency without the risk of real-world disruptions.</p>
     </div>
 
     <div class="box box2">
       <img src="./files/icon_gen/output/shiny_hex.png" alt="Shiny">
-      <h3>Shiny</h3>
+      <h4>Shiny</h4>
       <p>Using R or Python Shiny allows organisations to develop a wide range of web applications, from simple dashboards to enterprise-grade software.</p>
     </div>
 
     <div class="box box3">
       <img src="./files/icon_gen/output/workshops_hex.png" alt="Workshops">
-      <h3>Workshops</h3>
+      <h4>Workshops</h4>
       <p>In order to elevate data literacy we offer workshops in statistical analysis, data visualisation and discrete-event simulation.</p>
     </div>
 </div>
@@ -117,13 +117,13 @@ format: html
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Who We Work With</title>
     <style>
-        body {
+        /* body {
             font-family: Arial, sans-serif;
             text-align: center;
             margin: 0;
             padding: 0;
             background-color: #ffffff;
-        }
+        } */
 
         .container {
             margin: 50px auto;
