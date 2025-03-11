@@ -4,10 +4,10 @@ project:
     - "*.qmd"
   resources:
     - "files/"
-    - "projects/"
+    # - "projects/"
 
 website:
-  # title: "DataSquared"
+  title: "DataSquared"
   site-url: "https://www.datasqua.red"
 
   favicon: "/files/img/favicon.png"
@@ -43,7 +43,7 @@ format:
     theme:
       - brand
     # css: html/custom.scss
-    toc: true
+    # toc: true
     highlight-style: monokai
 
 
