@@ -2,7 +2,6 @@
 title: "DataSquared"
 # subtitle:
 # image:
-page-navigation: false
 details: |
 sidebar: false
 toc: false
