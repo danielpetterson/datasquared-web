@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "services.html",
+    "href": "services.html",
+    "title": "Our Services",
+    "section": "",
+    "text": "Why Choose Us?\n    \n        Data Quality – Understand the quality of your data, how it impacts your business, and receive guidance on how to improve data integrity.\n        Data Visualisation + Reporting Solutions –Harness the value of your data and unlock actionable insights with a data visualisation and reporting solution customised to your needs.\n        Custom Simulation Models – We specialize in building high-fidelity models for complex systems, enhancing efficiency and decision-making.\n        Shiny App Development – We create custom, interactive web applications using Shiny with both R and Python, transforming your data into powerful visual insights.\n        Industry Expertise – Our team has experience across various industries, including education, philanthropy, logistics and more.\n        End-to-End Support – From concept to deployment, we provide seamless integration and ongoing maintenance.\n    \n    \n    Contact Us\n    Contact Us Today to discuss your project and discover how we can bring your data to life!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Empowering Decisions with Data: Expert R & Shiny Solutions",
+    "section": "",
+    "text": "Landing Page\n    \n\n\n\n    \n  \n      \n          \n          Quickly design and customize responsive mobile-first sites with Bootstrap, the world’s most popular front-end open source toolkit!\n          Get Started\n          Learn More\n      \n  \n\n\n    \n      \n      Simulation\n      Discrete-event simulation allows organisations to optimise resource allocation and improve process efficiency without the cost of real-world disruptions.\n    \n\n    \n      \n      Shiny\n      Using R or Python Shiny allows organisations to develop a wide range of web applications, from simple dashboards to enterprise-grade software.\n    \n\n    \n      \n      Workshops\n      In order to bring knowledge in-house we offer workshops on R, Shiny and simulation via both SimPy and Simmer."
+  },
+  {
+    "objectID": "privacy.html",
+    "href": "privacy.html",
+    "title": "DataSquared Privacy Policy",
+    "section": "",
+    "text": "DataSquared collects the following data:\nPersonal identification information when contact is made: First and last name E-mail address\nWe use Google Analytics to collect data and analyze user interactions with our website. This helps us understand how visitors use our site, improve its functionality, and enhance your experience: IP address Location Data related to your activities on our website Browser and device type"
+  },
+  {
+    "objectID": "privacy.html#what-data-do-we-collect",
+    "href": "privacy.html#what-data-do-we-collect",
+    "title": "DataSquared Privacy Policy",
+    "section": "",
+    "text": "DataSquared collects the following data:\nPersonal identification information when contact is made: First and last name E-mail address\nWe use Google Analytics to collect data and analyze user interactions with our website. This helps us understand how visitors use our site, improve its functionality, and enhance your experience: IP address Location Data related to your activities on our website Browser and device type"
+  },
+  {
+    "objectID": "privacy.html#special-andor-sensitive-data",
+    "href": "privacy.html#special-andor-sensitive-data",
+    "title": "DataSquared Privacy Policy",
+    "section": "Special and/or sensitive data",
+    "text": "Special and/or sensitive data\nOur website and/or service does not intend to collect data about website visitors who are younger than 16 years old, unless they have permission from a parent or guardian. However, we cannot verify the age of a visitor above 16. Therefore, we recommend that parents become involved in their children’s online activities to prevent the collection of data about children without parental consent. If you believe that we have collected personal data about a minor without proper consent, please contact us at info@datasqua.red, and we will remove this information."
+  },
+  {
+    "objectID": "privacy.html#how-do-we-collect-your-data",
+    "href": "privacy.html#how-do-we-collect-your-data",
+    "title": "DataSquared Privacy Policy",
+    "section": "How do we collect your data?",
+    "text": "How do we collect your data?\nYou directly provide DataSquared with the data we collect. We collect data and process data when you:\nUse or view our website via your browser’s cookies after giving cookie consent."
+  },
+  {
+    "objectID": "privacy.html#how-will-we-use-your-data",
+    "href": "privacy.html#how-will-we-use-your-data",
+    "title": "DataSquared Privacy Policy",
+    "section": "How will we use your data?",
+    "text": "How will we use your data?\nDataSquared collects your data so that we can:\nContact you after you have made an inquiry To inform you about any changes in our services Optimise the user experience on our website"
+  },
+  {
+    "objectID": "privacy.html#how-do-we-store-your-data",
+    "href": "privacy.html#how-do-we-store-your-data",
+    "title": "DataSquared Privacy Policy",
+    "section": "How do we store your data?",
+    "text": "How do we store your data?\nDataSquared takes the protection of your data seriously and implements appropriate measures to prevent misuse, loss, unauthorized access, unintended disclosure, and unauthorized alteration. If you believe that your data is not properly secured or if there are indications of misuse, please contact our customer service or reach out to us at info@datasqua.red. DataSquared does not retain your personal data for longer than strictly necessary to achieve the purposes for which your data is collected. We apply the following retention period: 2 years. Once this time period has expired, we will delete your data."
+  },
+  {
+    "objectID": "privacy.html#sharing-your-data-with-third-parties",
+    "href": "privacy.html#sharing-your-data-with-third-parties",
+    "title": "DataSquared Privacy Policy",
+    "section": "Sharing your data with third parties",
+    "text": "Sharing your data with third parties\nDataSquared only provides personal data to third parties when necessary for the execution of our agreement with you or to comply with a legal obligation."
+  },
+  {
+    "objectID": "privacy.html#marketing",
+    "href": "privacy.html#marketing",
+    "title": "DataSquared Privacy Policy",
+    "section": "Marketing",
+    "text": "Marketing\nIf you subscribe to our newsletter or any other e-mail list, DataSquared would like to send you information about products and services of ours that we think you might like.\nIf you have agreed to receive marketing, you may always opt out at a later date. You have the right at any time to stop DataSquared from contacting you for marketing purposes.\nIf you no longer wish to be contacted for marketing purposes, please email us at info@datasqua.red with subject being “opt-out”."
+  },
+  {
+    "objectID": "privacy.html#how-do-you-view-modify-or-delete-your-data",
+    "href": "privacy.html#how-do-you-view-modify-or-delete-your-data",
+    "title": "DataSquared Privacy Policy",
+    "section": "How do you view, modify or delete your data?",
+    "text": "How do you view, modify or delete your data?\nYou have the right to access, correct, or delete your personal data. Additionally, you have the right to withdraw any consent you have provided for data processing or object to the processing of your personal data by DataSquared. You also have the right to data portability. This means that you can request us to send the personal data we have about you in a computer file to you or another organization you specify.\nYou can send a request for access, correction, deletion, data portability of your personal data, or a request to withdraw your consent or object to the processing of your personal data to info@datasqua.red. To ensure that the request for access is made by you, we ask you to include a copy of your identity document with the request. In this copy, please black out your passport photo, MRZ (machine-readable zone, the strip with numbers at the bottom of the passport), passport number, and Citizen Service Number (BSN) for privacy protection. We will respond to your request as soon as possible, but within four weeks."
+  },
+  {
+    "objectID": "privacy.html#cookies",
+    "href": "privacy.html#cookies",
+    "title": "DataSquared Privacy Policy",
+    "section": "Cookies",
+    "text": "Cookies\nWe use cookies and similar tracking technologies to track the activity on our websites. Cookies are files with a small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Other tracking technologies are also used such as beacons, tags and scripts to collect and track information and to improve and analyze our websites.\nYou need to give us consent to store cookies. If you don’t give consent, we will not store cookies and track your behaviour on our website. After consent, we will automatically collect, store, and use the following categories of data when you browse and search our site:\n\nTechnical information such as the type of device (and its unique device identifier) you use to access our site, the anonymized Internet protocol (IP) address used to connect your device to the Internet, browser type and version, time zone setting, browser plug-in types and versions, operating system, mobile network information and platform; and\nInformation about your visit to our site including the full Uniform Resource Locators (URL), clickstream to, through and from the website (including date and time), pages you viewed, page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page.\n\nMost web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them please visit http://www.allaboutcookies.org/."
+  },
+  {
+    "objectID": "privacy.html#how-do-we-use-cookies",
+    "href": "privacy.html#how-do-we-use-cookies",
+    "title": "DataSquared Privacy Policy",
+    "section": "How do we use cookies?",
+    "text": "How do we use cookies?\nDataSquared uses cookies in a range of ways to improve your experience on our website, including:\nUnderstanding how you use our website"
+  },
+  {
+    "objectID": "privacy.html#what-type-of-cookies-do-we-use",
+    "href": "privacy.html#what-type-of-cookies-do-we-use",
+    "title": "DataSquared Privacy Policy",
+    "section": "What type of cookies do we use?",
+    "text": "What type of cookies do we use?\nThere are a number of different types of cookies, however, our website uses:\n\nFunctionality – DataSquared uses these cookies so that we recognize you on our website and remember your previously selected preferences. These could include what language you prefer and location you are in. A mix of first-party and third-party cookies are used."
+  },
+  {
+    "objectID": "privacy.html#privacy-policies-of-other-websites",
+    "href": "privacy.html#privacy-policies-of-other-websites",
+    "title": "DataSquared Privacy Policy",
+    "section": "Privacy policies of other websites",
+    "text": "Privacy policies of other websites\nThe DataSquared website contains links to other websites. Our privacy policy applies only to our website, so if you click on a link to another website, you should read their privacy policy."
+  },
+  {
+    "objectID": "privacy.html#changes-to-our-privacy-policy",
+    "href": "privacy.html#changes-to-our-privacy-policy",
+    "title": "DataSquared Privacy Policy",
+    "section": "Changes to our privacy policy",
+    "text": "Changes to our privacy policy\nDataSquared keeps its privacy policy under regular review and places any updates on this web page. This privacy policy was last updated on 7 March 2025."
+  },
+  {
+    "objectID": "privacy.html#how-to-contact-us",
+    "href": "privacy.html#how-to-contact-us",
+    "title": "DataSquared Privacy Policy",
+    "section": "How to contact us",
+    "text": "How to contact us\nIf you have any questions about DataSquared’s privacy policy, the data we hold on you, or you would like to exercise one of your data protection rights, please do not hesitate to contact us.\nEmail us at: info@datasqua.red"
+  }
+]
