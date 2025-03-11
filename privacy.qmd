@@ -1,0 +1,96 @@
+---
+title: "DataSquared Privacy Policy"
+---
+
+## What data do we collect?
+
+DataSquared collects the following data:
+
+Personal identification information when contact is made:
+First and last name
+E-mail address
+ 
+
+We use Google Analytics to collect data and analyze user interactions with our website. This helps us understand how visitors use our site, improve its functionality, and enhance your experience:
+IP address
+Location
+Data related to your activities on our website
+Browser and device type
+
+## Special and/or sensitive data
+
+Our website and/or service does not intend to collect data about website visitors who are younger than 16 years old, unless they have permission from a parent or guardian. However, we cannot verify the age of a visitor above 16. Therefore, we recommend that parents become involved in their children’s online activities to prevent the collection of data about children without parental consent. If you believe that we have collected personal data about a minor without proper consent, please contact us at info@datasqua.red, and we will remove this information.
+
+## How do we collect your data?
+You directly provide DataSquared with the data we collect. We collect data and process data when you:
+
+Use or view our website via your browser’s cookies after giving cookie consent.
+
+## How will we use your data?
+
+DataSquared collects your data so that we can:
+
+Contact you after you have made an inquiry
+To inform you about any changes in our services
+Optimise the user experience on our website
+
+## How do we store your data?
+
+DataSquared takes the protection of your data seriously and implements appropriate measures to prevent misuse, loss, unauthorized access, unintended disclosure, and unauthorized alteration. If you believe that your data is not properly secured or if there are indications of misuse, please contact our customer service or reach out to us at info@datasqua.red. DataSquared does not retain your personal data for longer than strictly necessary to achieve the purposes for which your data is collected. We apply the following retention period: 2 years. Once this time period has expired, we will delete your data.
+
+## Sharing your data with third parties
+
+DataSquared only provides personal data to third parties when necessary for the execution of our agreement with you or to comply with a legal obligation.
+
+## Marketing
+
+If you subscribe to our newsletter or any other e-mail list, DataSquared would like to send you information about products and services of ours that we think you might like.
+
+If you have agreed to receive marketing, you may always opt out at a later date. You have the right at any time to stop DataSquared from contacting you for marketing purposes.
+
+If you no longer wish to be contacted for marketing purposes, please email us at info@datasqua.red with subject being “opt-out”.
+
+## How do you view, modify or delete your data?
+
+You have the right to access, correct, or delete your personal data. Additionally, you have the right to withdraw any consent you have provided for data processing or object to the processing of your personal data by DataSquared. You also have the right to data portability. This means that you can request us to send the personal data we have about you in a computer file to you or another organization you specify.
+
+You can send a request for access, correction, deletion, data portability of your personal data, or a request to withdraw your consent or object to the processing of your personal data to info@datasqua.red. To ensure that the request for access is made by you, we ask you to include a copy of your identity document with the request. In this copy, please black out your passport photo, MRZ (machine-readable zone, the strip with numbers at the bottom of the passport), passport number, and Citizen Service Number (BSN) for privacy protection. We will respond to your request as soon as possible, but within four weeks.
+
+## Cookies
+
+We use cookies and similar tracking technologies to track the activity on our websites. Cookies are files with a small amount of data which may include an anonymous unique identifier.
+Cookies are sent to your browser from a website and stored on your device. Other tracking technologies are also used such as beacons, tags and scripts to collect and track information and to improve and analyze our websites.
+
+You need to give us consent to store cookies. If you don’t give consent, we will not store cookies and track your behaviour on our website. After consent, we will automatically collect, store, and use the following categories of data when you browse and search our site:
+
+- Technical information such as the type of device (and its unique device identifier) you use to access our site, the anonymized Internet protocol (IP) address used to connect your device to the Internet, browser type and version, time zone setting, browser plug-in types and versions, operating system, mobile network information and platform; and
+
+- Information about your visit to our site including the full Uniform Resource Locators (URL), clickstream to, through and from the website (including date and time), pages you viewed, page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page.
+ 
+
+Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them please visit http://www.allaboutcookies.org/.
+
+## How do we use cookies?
+
+DataSquared uses cookies in a range of ways to improve your experience on our website, including:
+
+Understanding how you use our website
+
+## What type of cookies do we use?
+
+There are a number of different types of cookies, however, our website uses:
+
+- Functionality – DataSquared uses these cookies so that we recognize you on our website and remember your previously selected preferences. These could include what language you prefer and location you are in. A mix of first-party and third-party cookies are used.
+
+## Privacy policies of other websites
+
+The DataSquared website contains links to other websites. Our privacy policy applies only to our website, so if you click on a link to another website, you should read their privacy policy.
+
+## Changes to our privacy policy
+
+DataSquared keeps its privacy policy under regular review and places any updates on this web page. This privacy policy was last updated on 7 March 2025.
+
+## How to contact us
+If you have any questions about DataSquared’s privacy policy, the data we hold on you, or you would like to exercise one of your data protection rights, please do not hesitate to contact us.
+
+Email us at: info@datasqua.red
