@@ -3,8 +3,56 @@ title: "Our Services"
 ---
 
 ```{=html}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Our Services</title>
+    <style>
+
+        .container {
+          display: flex;
+          justify-content: space-between;
+          gap: 20px;
+          margin-top: 20px;
+        }
+
+        .box {
+          padding: 10px;
+          /* width: 430px; */
+          /* height: 600px; */
+          border: 0.25px solid #000;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          text-align: left;
+          background-color: #edeff7;
+        }
+
+        .box img {
+          margin-top: 20px;
+          width: 75%;
+          height: auto;
+          border-bottom: 4px solid #fff;
+        }
+
+        .box-text {
+          
+          margin-top: 10px;
+          font-size: 20px;
+        }
+
+        .box1 {
+          border-bottom: 5px solid #0078be;
+        }
+
+    </style>
+</head>
+<body>
 <div>
     <h2>Why Choose Us?</h2>
+    <div class="container">
+    <div class="box box1">
     <ul>
         <li><strong>Data Quality</strong> – Understand the quality of your data, how it impacts your business, and receive guidance on how to improve data integrity.</li>
         <li><strong>Data Visualisation + Reporting Solutions</strong> –Harness the value of your data and unlock actionable insights with a data visualisation and reporting solution customised to your needs.</li>
@@ -13,9 +61,13 @@ title: "Our Services"
         <li><strong>Industry Expertise</strong> – Our team has experience across various industries, including education, philanthropy, logistics and more.</li>
         <li><strong>End-to-End Support</strong> – From concept to deployment, we provide seamless integration and ongoing maintenance.</li>
     </ul>
+        </div>
+</div>
     
     <h2>Contact Us</h2>
-    <p>Contact Us Today to discuss your project and discover how we can bring your data to life!</p>
+    <p>Contact us today to discuss your project and discover how we can bring your data to life!</p>
 
 </div>
+</body>
+</html>
 ```

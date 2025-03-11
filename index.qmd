@@ -1,5 +1,5 @@
 ---
-# title: ""
+title: "Empowering Decisions with Data: Expert R & Shiny Solutions"
 # subtitle:
 # image:
 details: |
@@ -73,7 +73,7 @@ format: html
 </head>
 <body>
 
-    <!-- Hero Section -->
+    <!-- Hero Section
   <header class="hero-section">
       <div class="container">
           <h1><br>Empowering Decisions with Data: Expert R & Shiny Solutions</h1>
@@ -81,13 +81,15 @@ format: html
           <a href="#" class="btn btn-primary">Get Started</a>
           <a href="#" class="btn btn-outline-light">Learn More</a>
       </div>
-  </header>
+  </header> -->
+
+  <div class="underline"></div>
 
 <div class="container">
     <div class="box box1">
       <img src="./files/icon_gen/output/simulation_hex.png" alt="Simulation">
       <h3>Simulation</h3>
-      <p>Discrete-event simulation allows organisations to optimise resource allocation and improve process efficiency without the cost of real-world disruptions.</p>
+      <p>Discrete-event simulation allows organisations to optimise resource allocation and improve process efficiency without the risk of real-world disruptions.</p>
     </div>
 
     <div class="box box2">
@@ -99,9 +101,70 @@ format: html
     <div class="box box3">
       <img src="./files/icon_gen/output/workshops_hex.png" alt="Workshops">
       <h3>Workshops</h3>
-      <p>In order to bring knowledge in-house we offer workshops on R, Shiny and simulation via both SimPy and Simmer.</p>
+      <p>In order to elevate data literacy we offer workshops in statistical analysis, data visualisation and discrete-event simulation.</p>
     </div>
 </div>
+
+</body>
+</html>
+```
+
+```{=html}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Who We Work With</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            background-color: #ffffff;
+        }
+
+        .container {
+            margin: 50px auto;
+            width: 80%;
+        }
+
+        .underline {
+            width: 100px;
+            height: 3px;
+            background-color: #1a9cf3;
+            margin: 5px auto 30px auto;
+        }
+
+        .logos {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: center;
+            gap: 50px;
+        }
+
+        .logos img {
+            max-width: 180px;
+            height: auto;
+            filter: grayscale(100%);
+        }
+
+    </style>
+</head>
+<body>
+   <h2>Who We Work With</h2>
+   <div class="underline"></div>
+
+    <div class="container">
+        <div class="logos">
+            <img src="files/img/doc-logo.png" alt="Department of Conservation">
+            <img src="files/img/vuw-logo.png" alt="Victoria University of Wellington">
+            <img src="files/img/swb-logo.png" alt="Statistics Without Borders">
+        </div>
+
+    </div>
 
 </body>
 </html>

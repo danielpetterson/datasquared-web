@@ -17,7 +17,7 @@ website:
     right:
       - services.qmd
       - text: "Contact"
-        href: "mailto:info@datasqua.red"
+        href: "mailto:enquiries@datasqua.red"
         aria-label: Email
       - text: "Privacy Policy"
         file: privacy.qmd
