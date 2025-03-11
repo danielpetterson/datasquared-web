@@ -7,7 +7,7 @@ project:
     - "projects/"
 
 website:
-  title: "DataSquared"
+  # title: "DataSquared"
   site-url: "https://www.datasqua.red"
 
   favicon: "/files/img/favicon.png"
