@@ -8,6 +8,7 @@ project:
 
 website:
   title: "DataSquared"
+  #  ![](files/img/index-logo.png){width=5in} 
   site-url: "https://www.datasqua.red"
 
   favicon: "/files/img/favicon.png"

@@ -1,8 +1,5 @@
 ---
 title: ""
-# subtitle:
-# image:
-details: |
 sidebar: false
 toc: false
 page-layout: full
@@ -19,14 +16,14 @@ format: html
     <title>Landing Page</title>
     <style>
 
-        /* .hero-section {
-            background-color: #212529;
-            color: white;
+        .hero-section {
+            /* background-color: #212529; */
+            /* color: white; */
             text-align: center;
             padding: 100px 20px;
-        } */
+        }
 
-        .container {
+        .container-services {
           display: flex;
           justify-content: space-between;
           gap: 20px;
@@ -107,19 +104,26 @@ format: html
 </head>
 <body>
 
-    <!-- Hero Section
+    <!-- Hero Section -->
   <header class="hero-section">
       <div class="container">
-          <h1><br>Empowering Decisions with Data: Expert R & Shiny Solutions</h1>
-          <p>Quickly design and customize responsive mobile-first sites with Bootstrap, the world’s most popular front-end open source toolkit!</p>
-          <a href="#" class="btn btn-primary">Get Started</a>
-          <a href="#" class="btn btn-outline-light">Learn More</a>
+          <!-- <h1><br></h1> -->
+          <p>DataSquared is a data science consultancy committed to helping organizations unlock the full potential of their data. We work across a diverse range of industries, providing tailored data-driven solutions that enhance decision-making, optimize operations, and drive innovation.
+          <br>
+          <br>
+          Our expertise includes the development of Shiny applications, enabling interactive and user-friendly data tools that transform complex datasets into actionable insights. Additionally, we specialize in discrete-event modeling, a powerful simulation technique that helps businesses analyse and optimize processes, improve efficiency, and forecast outcomes with greater accuracy.
+          <br>
+          <br>
+          By combining advanced analytics, cutting-edge technology, and industry expertise, we empower clients to harness their data effectively, making informed decisions that lead to meaningful impact and long-term success.</p>
+          <br>
+          <a href="mailto:enquiries@datasqua.red" class="btn btn-primary">Contact Us</a>
+          <a href="services.html" class="btn btn-secondary">Learn More</a>
       </div>
-  </header> -->
+  </header>
 
   <div class="underline"></div>
 
-<div class="container">
+<div class="container-services">
     <div class="box box1">
       <img src="./files/icon_gen/output/simulation_hex.png" alt="Simulation">
       <h4>Simulation</h4>
@@ -134,7 +138,7 @@ format: html
 
     <div class="box box3">
       <img src="./files/icon_gen/output/workshops_hex.png" alt="Workshops">
-      <h4>Workshops</h4>
+      <h4>Training</h4>
       <p>In order to elevate data literacy we offer workshops in statistical analysis, data visualisation and discrete-event simulation.</p>
     </div>
 </div>

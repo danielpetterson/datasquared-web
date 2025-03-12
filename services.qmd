@@ -49,23 +49,29 @@ title: "Our Services"
     </style>
 </head>
 <body>
+  <div class="container">
+    <div class="box box1">
+    <ul>
+        <li><strong>Data Quality</strong> – Understand the quality of your data, how it impacts your business, and receive guidance on how to improve data integrity.</li>
+        <li><strong>Data Visualisation + Reporting Solutions</strong> – Harness the value of your data and unlock actionable insights with a data visualisation and reporting solution customised to your needs.</li>
+        <li><strong>Custom Simulation Models</strong> – We specialise in building high-fidelity models for complex systems, enhancing efficiency and decision-making capabilities.</li>
+        <li><strong>Shiny App Development</strong> – We create custom, interactive web applications using Shiny with both R and Python, transforming your data into powerful visual insights.</li>
+    </ul>
+        </div>
+</div>
 <div>
     <h2>Why Choose Us?</h2>
     <div class="container">
     <div class="box box1">
     <ul>
-        <li><strong>Data Quality</strong> – Understand the quality of your data, how it impacts your business, and receive guidance on how to improve data integrity.</li>
-        <li><strong>Data Visualisation + Reporting Solutions</strong> –Harness the value of your data and unlock actionable insights with a data visualisation and reporting solution customised to your needs.</li>
-        <li><strong>Custom Simulation Models</strong> – We specialize in building high-fidelity models for complex systems, enhancing efficiency and decision-making.</li>
-        <li><strong>Shiny App Development</strong> – We create custom, interactive web applications using Shiny with both R and Python, transforming your data into powerful visual insights.</li>
-        <li><strong>Industry Expertise</strong> – Our team has experience across various industries, including education, philanthropy, logistics and more.</li>
+        <li><strong>Industry Expertise</strong> – Our team has experience across various industries, including conservation, education, logistics and more.</li>
         <li><strong>End-to-End Support</strong> – From concept to deployment, we provide seamless integration and ongoing maintenance.</li>
     </ul>
         </div>
 </div>
     
-    <h2>Contact Us</h2>
-    <p>Contact us today to discuss your project and discover how we can bring your data to life!</p>
+    <!-- <h2>Contact Us</h2>
+    <p>Contact us today to discuss your project and discover how we can bring your data to life!</p> -->
 
 </div>
 </body>
