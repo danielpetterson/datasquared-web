@@ -19,7 +19,7 @@ Browser and device type
 
 ## Special and/or sensitive data
 
-Our website and/or service does not intend to collect data about website visitors who are younger than 16 years old, unless they have permission from a parent or guardian. However, we cannot verify the age of a visitor above 16. Therefore, we recommend that parents become involved in their children’s online activities to prevent the collection of data about children without parental consent. If you believe that we have collected personal data about a minor without proper consent, please contact us at info@datasqua.red, and we will remove this information.
+Our website and/or service does not intend to collect data about website visitors who are younger than 16 years old, unless they have permission from a parent or guardian. However, we cannot verify the age of a visitor above 16. Therefore, we recommend that parents become involved in their children’s online activities to prevent the collection of data about children without parental consent. If you believe that we have collected personal data about a minor without proper consent, please contact us at enquiries@datasqua.red, and we will remove this information.
 
 ## How do we collect your data?
 You directly provide DataSquared with the data we collect. We collect data and process data when you:
@@ -36,7 +36,7 @@ Optimise the user experience on our website
 
 ## How do we store your data?
 
-DataSquared takes the protection of your data seriously and implements appropriate measures to prevent misuse, loss, unauthorized access, unintended disclosure, and unauthorized alteration. If you believe that your data is not properly secured or if there are indications of misuse, please contact our customer service or reach out to us at info@datasqua.red. DataSquared does not retain your personal data for longer than strictly necessary to achieve the purposes for which your data is collected. We apply the following retention period: 2 years. Once this time period has expired, we will delete your data.
+DataSquared takes the protection of your data seriously and implements appropriate measures to prevent misuse, loss, unauthorized access, unintended disclosure, and unauthorized alteration. If you believe that your data is not properly secured or if there are indications of misuse, please contact our customer service or reach out to us at enquiries@datasqua.red. DataSquared does not retain your personal data for longer than strictly necessary to achieve the purposes for which your data is collected. We apply the following retention period: 2 years. Once this time period has expired, we will delete your data.
 
 ## Sharing your data with third parties
 
@@ -48,13 +48,13 @@ If you subscribe to our newsletter or any other e-mail list, DataSquared would l
 
 If you have agreed to receive marketing, you may always opt out at a later date. You have the right at any time to stop DataSquared from contacting you for marketing purposes.
 
-If you no longer wish to be contacted for marketing purposes, please email us at info@datasqua.red with subject being “opt-out”.
+If you no longer wish to be contacted for marketing purposes, please email us at enquiries@datasqua.red with subject being “opt-out”.
 
 ## How do you view, modify or delete your data?
 
 You have the right to access, correct, or delete your personal data. Additionally, you have the right to withdraw any consent you have provided for data processing or object to the processing of your personal data by DataSquared. You also have the right to data portability. This means that you can request us to send the personal data we have about you in a computer file to you or another organization you specify.
 
-You can send a request for access, correction, deletion, data portability of your personal data, or a request to withdraw your consent or object to the processing of your personal data to info@datasqua.red. To ensure that the request for access is made by you, we ask you to include a copy of your identity document with the request. In this copy, please black out your passport photo, MRZ (machine-readable zone, the strip with numbers at the bottom of the passport), passport number, and Citizen Service Number (BSN) for privacy protection. We will respond to your request as soon as possible, but within four weeks.
+You can send a request for access, correction, deletion, data portability of your personal data, or a request to withdraw your consent or object to the processing of your personal data to enquiries@datasqua.red. To ensure that the request for access is made by you, we ask you to include a copy of your identity document with the request. In this copy, please black out your passport photo, MRZ (machine-readable zone, the strip with numbers at the bottom of the passport), passport number, and Citizen Service Number (BSN) for privacy protection. We will respond to your request as soon as possible, but within four weeks.
 
 ## Cookies
 
