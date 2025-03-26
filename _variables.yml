@@ -5,7 +5,7 @@ primary:
   name: Daniel Petterson
   email: danielpetterson@datasqua.red
   url: "https://danielpetterson.github.io"
-  github: danielpetterson
+  github: "https://github.com/danielpetterson/datasquared-web"
 
 secondary:
   name: Simon Perl
