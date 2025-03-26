@@ -133,7 +133,7 @@ format: html
     <div class="box box2">
       <img src="./files/icon_gen/output/shiny_hex.png" alt="Shiny">
       <h4>Shiny</h4>
-      <p>Using R or Python Shiny allows organisations to develop a wide range of web applications, from simple dashboards to enterprise-grade software.</p>
+      <p>Using either R or Python, Shiny allows organisations to develop a wide range of web applications, from simple dashboards to enterprise-grade software.</p>
     </div>
 
     <div class="box box3">
