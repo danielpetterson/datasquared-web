@@ -115,6 +115,7 @@ format:
 :::
 
 ### Custom Simulation Models
+
 We specialise in building high-fidelity models for complex systems, enhancing efficiency and decision-making capabilities. [@cr-image-simulation]
 
 :::{#cr-image-shiny}
@@ -122,6 +123,7 @@ We specialise in building high-fidelity models for complex systems, enhancing ef
 :::
 
 ### Custom Analytics + Software Solutions
+
 We create custom, interactive web applications using Shiny with both R and Python, transforming your data into powerful visual insights. [@cr-image-shiny]
 
 :::{#cr-image-workshops}
@@ -129,6 +131,7 @@ We create custom, interactive web applications using Shiny with both R and Pytho
 :::
 
 ### Data Science Team Development
+
 From full-day training courses in R to data science team development programmes customised to your organisation's needs. [@cr-image-workshops]
 
 :::
