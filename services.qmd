@@ -1,8 +1,9 @@
 ---
 title: "Our Services"
+format: closeread-html
 ---
 
-```{=html}
+<!-- ```{=html}
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -76,4 +77,26 @@ title: "Our Services"
 </div>
 </body>
 </html>
-```
+``` -->
+
+:::{.cr-section}
+# Our Services
+
+@image-simulation 
+
+:::{#image-simulation}
+![]("./files/icon_gen/output/simulation_hex.png")
+:::
+
+@image-shiny Shiny App Development – We create custom, interactive web applications using Shiny with both R and Python, transforming your data into powerful visual insights.
+
+:::{#image-shiny}
+![]("./files/icon_gen/output/shiny_hex.png")
+:::
+
+@image-workshops Shiny App Development – We create custom, interactive web applications using Shiny with both R and Python, transforming your data into powerful visual insights.
+
+:::{#image-workshops}
+![]("./files/icon_gen/output/workshops_hex.png")
+:::
+:::
