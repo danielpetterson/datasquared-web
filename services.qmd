@@ -2,7 +2,7 @@
 title: "Our Services"
 format:
   closeread-html:
-    # remove-header-space: true
+    remove-header-space: true
     debug-mode: false
     cr-style:
       narrative-text-color-sidebar: white
