@@ -129,6 +129,14 @@ format:
 :::
 
 @cr-image-workshops
-**Data Science Team Development** <br>From full-day training courses in R to data science team development programmes customised to your organisation's needs. We offer the tools and guidance to take your in-house analytics to the next level.
+:::{focus-on="cr-image-workshops"}
+
+**Data Science Team Development**
+
+<p style="margin-top:1em;">From full-day training courses in R to data science team development programmes customised to your organisation's needs. We offer the tools and guidance to take your in-house analytics to the next level. 🤔</p>
+
+:::
+
+
 
 :::
