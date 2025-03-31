@@ -29,11 +29,10 @@ format:
 ![](/files/icon_gen/output/shiny_hex.png)
 :::
 
-
+@cr-image-shiny
 ```{=html}
 <strong>Bespoke Software Solutions</strong>
 <p style="margin-top:0.5em;">We create custom, interactive web applications using Shiny with both R and Python, enabling you to transform your data with ease.</p>
-@cr-image-shiny
 ```
 
 
@@ -41,10 +40,11 @@ format:
 ![](/files/icon_gen/output/workshops_hex.png)
 :::
 
+@cr-image-workshops
 ```{=html}
 <strong>Data Science Team Development</strong>
 <p style="margin-top:0.5em;">From full-day training courses in R to data science team development programmes customised to your organisation's needs. We offer the tools and guidance to take your in-house analytics to the next level.</p>
-``` @cr-image-workshops
+```
 
 
 :::
