@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "services.html",
-    "href": "services.html",
-    "title": "Our Services",
-    "section": "",
-    "text": "Our Services\n    \n\n\n  \n    \n    \n        Data Quality – Understand the quality of your data, how it impacts your business, and receive guidance on how to improve data integrity.\n        Data Visualisation + Reporting Solutions – Harness the value of your data and unlock actionable insights with a data visualisation and reporting solution customised to your needs.\n        Custom Simulation Models – We specialise in building high-fidelity models for complex systems, enhancing efficiency and decision-making capabilities.\n        Shiny App Development – We create custom, interactive web applications using Shiny with both R and Python, transforming your data into powerful visual insights.\n    \n        \n\n\n    Why Choose Us?\n    \n    \n    \n        Industry Expertise – Our team has experience across various industries, including conservation, education, logistics and more.\n        End-to-End Support – From concept to deployment, we provide seamless integration and ongoing maintenance."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "DataSquared",
