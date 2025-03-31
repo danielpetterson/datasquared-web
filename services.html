@@ -72,7 +72,7 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <meta cr-debug-mode="false">
-<meta cr-remove-header-space="false">
+<meta cr-remove-header-space="true">
 
 
 <link rel="stylesheet" href="site_libs/quarto-contrib/quarto-project/qmd-lab/closeread/closeread.css">
@@ -121,6 +121,19 @@ ul.task-list li input[type="checkbox"] {
     
 <!-- main -->
 <main class="content column-page" id="quarto-document-content">
+      <!-- user-provided yaml closeread style options -->
+      <style>
+        :root {
+          --cr-narrative-background-color-sidebar: #111111;
+--cr-narrative-border-radius: 5px;
+--cr-narrative-font-size: 1.25rem;
+--cr-narrative-text-color-sidebar: white;
+--cr-narrative-sidebar-width: minmax(400px, 1fr);
+--cr-narrative-background-color-overlay: #111111dd;
+--cr-section-background-color: white;
+        }
+      </style>
+    
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -215,14 +228,33 @@ ul.task-list li input[type="checkbox"] {
 </body>
 </html>
 ``` -->
+<!-- ```{=html}
+<style>
+  @import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap");
+
+  #quarto-document-content h1 {
+    font-family: "Cormorant Garamond", "Times New Roman", Times, serif;
+    font-weight: 500;
+    font-size: 2.3em;
+    line-height: 1.1;
+    margin-top: 0;
+  }
+
+  .cr-section  .narrative-col  > *:first-child {
+    padding-block-start: 10svh;
+  }
+</style>
+``` -->
 <div class="cr-section cr-column-screen sidebar-left">
 <div class="narrative-col">
-<section id="our-services" class="level1 narrative trigger">
-<h1 class="narrative">Our Services</h1>
-</section>
 <div class="trigger">
 <div class="narrative">
-<p><span class="citation" data-cites="image-simulation">@image-simulation</span> Custom Simulation Models – We specialise in building high-fidelity models for complex systems, enhancing efficiency and decision-making capabilities.</p>
+<p><img src="&quot;./files/icon_gen/output/simulation_hex.png&quot;" class="img-fluid"></p>
+</div>
+</div>
+<div class="trigger">
+<div class="narrative">
+<p>Custom Simulation Models – We specialise in building high-fidelity models for complex systems, enhancing efficiency and decision-making capabilities. <span class="citation" data-cites="image-simulation">[@image-simulation]</span></p>
 </div>
 </div>
 <div class="trigger">
@@ -232,7 +264,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <div class="trigger">
 <div class="narrative">
-<p><span class="citation" data-cites="image-shiny">@image-shiny</span> Shiny App Development – We create custom, interactive web applications using Shiny with both R and Python, transforming your data into powerful visual insights.</p>
+<p>Shiny App Development – We create custom, interactive web applications using Shiny with both R and Python, transforming your data into powerful visual insights. <span class="citation" data-cites="image-shiny">[@image-shiny]</span></p>
 </div>
 </div>
 <div class="trigger">
@@ -242,7 +274,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <div class="trigger">
 <div class="narrative">
-<p><span class="citation" data-cites="image-workshops">@image-workshops</span> Shiny App Development – We create custom, interactive web applications using Shiny with both R and Python, transforming your data into powerful visual insights.</p>
+<p>Shiny App Development – We create custom, interactive web applications using Shiny with both R and Python, transforming your data into powerful visual insights. <span class="citation" data-cites="image-workshops">[@image-workshops]</span></p>
 </div>
 </div>
 <div class="trigger">
