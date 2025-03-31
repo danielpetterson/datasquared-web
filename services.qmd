@@ -115,7 +115,10 @@ format:
 :::
 
 @cr-image-simulation
-**Custom Simulation Models** <br>We specialise in building high-fidelity models for complex systems, enabling risk-free experimentation and removing guesswork.
+```{=html}
+<strong>Custom Simulation Models**</strong> <br>
+<p style="margin-top:0.5em;">We specialise in building high-fidelity models for complex systems, enabling risk-free experimentation and removing guesswork.</p>
+```
 
 :::{#cr-image-shiny}
 ![](/files/icon_gen/output/shiny_hex.png)
@@ -124,7 +127,7 @@ format:
 @cr-image-shiny
 ```{=html}
 <strong>Bespoke Software Solutions</strong> <br>
-We create custom, interactive web applications using Shiny with both R and Python, enabling you to transform your data with ease.
+<p style="margin-top:0.5em;">We create custom, interactive web applications using Shiny with both R and Python, enabling you to transform your data with ease.</p>
 ```
 
 :::{#cr-image-workshops}
@@ -134,7 +137,7 @@ We create custom, interactive web applications using Shiny with both R and Pytho
 @cr-image-workshops
 ```{=html}
 <strong>Data Science Team Development</strong>
-<p style="margin-top:1em;">From full-day training courses in R to data science team development programmes customised to your organisation's needs. We offer the tools and guidance to take your in-house analytics to the next level.</p>
+<p style="margin-top:0.5em;">From full-day training courses in R to data science team development programmes customised to your organisation's needs. We offer the tools and guidance to take your in-house analytics to the next level.</p>
 ```
 
 :::
