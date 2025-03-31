@@ -109,24 +109,23 @@ format:
 ``` -->
 
 :::{.cr-section}
-![]("./files/icon_gen/output/simulation_hex.png")
 
 Custom Simulation Models – We specialise in building high-fidelity models for complex systems, enhancing efficiency and decision-making capabilities. [@cr-image-simulation]
 
 :::{#cr-image-simulation}
-![]("files/icon_gen/output/simulation_hex.png")
+![]("/files/icon_gen/output/simulation_hex.png")
 :::
 
 Shiny App Development – We create custom, interactive web applications using Shiny with both R and Python, transforming your data into powerful visual insights. [@cr-image-shiny]
 
 :::{#cr-image-shiny}
-![]("./files/icon_gen/output/shiny_hex.png")
+![]("/files/icon_gen/output/shiny_hex.png")
 :::
 
 Shiny App Development – We create custom, interactive web applications using Shiny with both R and Python, transforming your data into powerful visual insights. [@cr-image-workshops]
 
 :::{#cr-image-workshops}
-![]("./files/icon_gen/output/workshops_hex.png")
+![]("/files/icon_gen/output/workshops_hex.png")
 :::
 
 :::
