@@ -2,7 +2,7 @@
 title: "Our Services"
 format:
   closeread-html:
-    remove-header-space: true
+    # remove-header-space: true
     debug-mode: false
     cr-style:
       narrative-text-color-sidebar: white
@@ -14,8 +14,6 @@ format:
       section-background-color: white
 ---
 :::{.cr-section}
-
-# Our Services
 
 :::{#cr-image-simulation}
 ![](/files/icon_gen/output/simulation_hex.png)
