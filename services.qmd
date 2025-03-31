@@ -74,7 +74,7 @@ format: closeread-html
     <!-- <h2>Contact Us</h2>
     <p>Contact us today to discuss your project and discover how we can bring your data to life!</p> -->
 
-</div>
+<!-- </div>
 </body>
 </html>
 ``` -->
@@ -82,7 +82,7 @@ format: closeread-html
 :::{.cr-section}
 # Our Services
 
-@image-simulation 
+@image-simulation Custom Simulation Models – We specialise in building high-fidelity models for complex systems, enhancing efficiency and decision-making capabilities.
 
 :::{#image-simulation}
 ![]("./files/icon_gen/output/simulation_hex.png")
