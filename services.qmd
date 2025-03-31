@@ -122,18 +122,20 @@ format:
 :::
 
 @cr-image-shiny
-**Bespoke Software Solutions** <br>We create custom, interactive web applications using Shiny with both R and Python, enabling you to transform your data with ease.
+```{=html}
+<strong>Bespoke Software Solutions</strong> <br>
+We create custom, interactive web applications using Shiny with both R and Python, enabling you to transform your data with ease.
+```
 
 :::{#cr-image-workshops}
 ![](/files/icon_gen/output/workshops_hex.png)
 :::
 
 @cr-image-workshops
-:::{focus-on="cr-image-workshops"}
-
-**Data Science Team Development**
-
-<p style="margin-top:1em;">From full-day training courses in R to data science team development programmes customised to your organisation's needs. We offer the tools and guidance to take your in-house analytics to the next level. 🤔</p>
+```{=html}
+<strong>Data Science Team Development</strong>
+<p style="margin-top:1em;">From full-day training courses in R to data science team development programmes customised to your organisation's needs. We offer the tools and guidance to take your in-house analytics to the next level.</p>
+```
 
 :::
 
