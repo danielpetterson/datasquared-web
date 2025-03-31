@@ -9,8 +9,8 @@ format:
       narrative-font-size: 1.25rem
       narrative-sidebar-width: minmax(500px, 1fr)
       narrative-border-radius: 5px
-      narrative-background-color-overlay: "#111111dd"
-      narrative-background-color-sidebar: "#111111"
+      # narrative-background-color-overlay: "#111111dd"
+      # narrative-background-color-sidebar: "#111111"
       section-background-color: white
 ---
 :::{.cr-section}
@@ -19,30 +19,30 @@ format:
 ![](/files/icon_gen/output/simulation_hex.png)
 :::
 
-@cr-image-simulation
 ```{=html}
 <strong>Custom Simulation Models</strong>
 <p style="margin-top:0.5em;">We specialise in building high-fidelity models for complex systems, enabling risk-free experimentation and removing guesswork.</p>
 ```
+@cr-image-simulation
 
 :::{#cr-image-shiny}
 ![](/files/icon_gen/output/shiny_hex.png)
 :::
 
-@cr-image-shiny
 ```{=html}
 <strong>Bespoke Software Solutions</strong>
 <p style="margin-top:0.5em;">We create custom, interactive web applications using Shiny with both R and Python, enabling you to transform your data with ease.</p>
 ```
+@cr-image-shiny
 
 :::{#cr-image-workshops}
 ![](/files/icon_gen/output/workshops_hex.png)
 :::
 
-@cr-image-workshops
 ```{=html}
 <strong>Data Science Team Development</strong>
 <p style="margin-top:0.5em;">From full-day training courses in R to data science team development programmes customised to your organisation's needs. We offer the tools and guidance to take your in-house analytics to the next level.</p>
 ```
+@cr-image-workshops
 
 :::
