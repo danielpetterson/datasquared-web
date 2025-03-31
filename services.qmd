@@ -21,11 +21,12 @@ format:
 ![](/files/icon_gen/output/simulation_hex.png)
 :::
 
-@cr-image-simulation
+
 ```{=html}
 <strong>Custom Simulation Models</strong>
-<p style="margin-top:0.5em;">We specialise in building high-fidelity models for complex systems, enabling risk-free experimentation and removing guesswork.</p>
+<p style="margin-top:0.5em;"> </p>
 ```
+We specialise in building high-fidelity models for complex systems, enabling risk-free experimentation and removing guesswork. @cr-image-simulation
 
 :::{#cr-image-shiny}
 ![](/files/icon_gen/output/shiny_hex.png)
