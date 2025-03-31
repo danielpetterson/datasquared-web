@@ -7,7 +7,7 @@ format:
     cr-style:
       narrative-text-color-sidebar: white
       narrative-font-size: 1.25rem
-      narrative-sidebar-width: minmax(400px, 1fr)
+      narrative-sidebar-width: minmax(500px, 1fr)
       narrative-border-radius: 5px
       narrative-background-color-overlay: "#111111dd"
       narrative-background-color-sidebar: "#111111"
@@ -110,26 +110,25 @@ format:
 
 :::{.cr-section}
 
-Custom Simulation Models – We specialise in building high-fidelity models for complex systems, enhancing efficiency and decision-making capabilities. [@cr-image-simulation]
-
 :::{#cr-image-simulation}
 ![](/files/icon_gen/output/simulation_hex.png)
 :::
 
-Shiny App Development – We create custom, interactive web applications using Shiny with both R and Python, transforming your data into powerful visual insights. [@cr-image-shiny]
+### Custom Simulation Models
+We specialise in building high-fidelity models for complex systems, enhancing efficiency and decision-making capabilities. [@cr-image-simulation]
 
 :::{#cr-image-shiny}
 ![](/files/icon_gen/output/shiny_hex.png)
 :::
 
-Shiny App Development – We create custom, interactive web applications using Shiny with both R and Python, transforming your data into powerful visual insights. [@cr-image-workshops]
+### Custom Analytics + Software Solutions
+We create custom, interactive web applications using Shiny with both R and Python, transforming your data into powerful visual insights. [@cr-image-shiny]
 
 :::{#cr-image-workshops}
 ![](/files/icon_gen/output/workshops_hex.png)
 :::
 
-:::
+### Data Science Team Development
+From full-day training courses in R to data science team development programmes customised to your organisation's needs. [@cr-image-workshops]
 
-\
-\
-\
+:::
