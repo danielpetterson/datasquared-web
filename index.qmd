@@ -3,7 +3,9 @@ title: ""
 sidebar: false
 toc: false
 page-layout: full
-format: html
+format: 
+  html:
+   remove-header-space: true
 ---
 
 
@@ -107,14 +109,8 @@ format: html
     <!-- Hero Section -->
   <header class="hero-section">
       <div class="container">
-          <!-- <h1><br></h1> -->
-          <p>DataSquared is a data science consultancy committed to helping organizations unlock the full potential of their data. We work across a diverse range of industries, providing tailored data-driven solutions that enhance decision-making, optimize operations, and drive innovation.
-          <br>
-          <br>
-          Our expertise includes the development of Shiny applications, enabling interactive and user-friendly data tools that transform complex datasets into actionable insights. Additionally, we specialize in discrete-event modeling, a powerful simulation technique that helps businesses analyse and optimize processes, improve efficiency, and forecast outcomes with greater accuracy.
-          <br>
-          <br>
-          By combining advanced analytics, cutting-edge technology, and industry expertise, we empower clients to harness their data effectively, making informed decisions that lead to meaningful impact and long-term success.</p>
+          <h1>Unlock Insight with Simulation & Interactive Dashboards</h1>
+          <p>At DataSquared, we transform complex data into clear, actionable insight. Specializing in advanced simulation modeling and bespoke Shiny web applications, we help organizations make smarter, data-driven decisions. Whether you're optimizing operations, forecasting scenarios, or visualizing your data in real time, we build tailored solutions that bring clarity and confidence to every decision.</p>
           <br>
           <a href="mailto:enquiries@datasqua.red" class="btn btn-primary">Contact Us</a>
           <a href="services.html" class="btn btn-secondary">Learn More</a>
