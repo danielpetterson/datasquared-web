@@ -3,9 +3,7 @@ title: ""
 sidebar: false
 toc: false
 page-layout: full
-format: 
-  html:
-   remove-header-space: true
+format: revealjs
 ---
 
 
@@ -21,7 +19,6 @@ format:
         .hero-section {
             /* background-color: #212529; */
             /* color: white; */
-            background: linear-gradient(to bottom, #1a9cf3, lighten(#1a9cf3, 20%));
             text-align: center;
             padding: 100px 20px;
         }
@@ -75,6 +72,7 @@ format:
             text-align: center;
             margin: 0;
             padding: 0;
+            background: linear-gradient(to bottom, #1a9cf3, lighten(#1a9cf3, 20%));
             /* background-color: #ffffff; */
         }
 
