@@ -23,6 +23,7 @@ format:
             /* color: white; */
             text-align: center;
             padding: 100px 20px;
+            background: linear-gradient(to bottom, lightblue, white);
         }
 
         .container-services {
@@ -41,7 +42,8 @@ format:
           flex-direction: column;
           align-items: center;
           text-align: center;
-          background-color: #edeff7;
+          /* background-color: #edeff7; */
+          background: linear-gradient(to bottom, lightblue, white);
         }
 
         .box img {
