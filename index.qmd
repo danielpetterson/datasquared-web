@@ -74,7 +74,8 @@ format:
             text-align: center;
             margin: 0;
             padding: 0;
-            background-color: #ffffff;
+            background: linear-gradient(to top, #1a9cf3, lighten(#1a9cf3, 20%));
+            /* background-color: #ffffff; */
         }
 
         .container-affiliate {
