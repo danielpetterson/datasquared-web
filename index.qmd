@@ -6,6 +6,8 @@ page-layout: full
 format: 
   html:
    remove-header-space: true
+   email-obfuscation: references
+   anchor-sections: false
 ---
 
 
@@ -19,7 +21,7 @@ format:
     <style>
 
         .hero-section {
-            /* background-color: #212529; */
+            background-color: #ffffff;
             /* color: white; */
             text-align: center;
             padding: 100px 20px;
