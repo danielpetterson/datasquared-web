@@ -8,7 +8,7 @@ format:
       narrative-text-color-sidebar: white
       narrative-font-size: 1.25rem
       narrative-sidebar-width: minmax(500px, 1fr)
-      narrative-font-family:  ui-sans-serif
+      narrative-font-family:  sans-serif
       narrative-border-radius: 5px
       narrative-background-color-overlay: "#0d6efd"
       narrative-background-color-sidebar: "#0d6efd"
