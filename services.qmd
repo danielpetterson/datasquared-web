@@ -11,7 +11,7 @@ format:
       narrative-border-radius: 5px
       narrative-background-color-overlay: "#0d6efd"
       narrative-background-color-sidebar: "#0d6efd"
-      section-background-color: white
+      section-background-color: "linear-gradient(to bottom, #899de7, white)"
 ---
 :::{.cr-section}
 
