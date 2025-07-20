@@ -1,5 +1,8 @@
 ---
 title: "DataSquared Privacy Policy"
+format:
+    html:
+        fontfamily: Inter Variable
 ---
 
 ## What data do we collect?

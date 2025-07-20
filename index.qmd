@@ -22,7 +22,7 @@ format:
 
     html {
         height: auto;
-        font-family: ui-sans-serif,system-ui,sans-serif;
+        font-family: "Inter Variable", ui-sans-serif, system-ui, sans-serif;
         }
 
     body {
