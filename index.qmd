@@ -20,12 +20,26 @@ format:
     <title>Landing Page</title>
     <style>
 
-        .hero-section {
-            background-color: #ffffff;
-            /* color: white; */
-            text-align: center;
-            padding: 100px 20px;
-        }
+      .gradient-bg {
+        min-height: 100%;
+        background: linear-gradient(to bottom, lightblue, white);
+      }
+
+      .hero-section {
+          /* background-color: #ffffff; */
+          /* color: white; */
+          text-align: center;
+          padding: 100px 20px;
+      }
+
+      .rounded-2xl {
+        border-radius: 1rem;
+      }
+
+      .popout {
+        background: linear-gradient(0deg,rgba(0,0,0,.015),rgba(0,0,0,.015)),#FFFFFF;
+        box-shadow: 0 2px 8px #6a7da226,0 .8px 2px 1px #6a7da240;
+      }
 
         .container-services {
           display: flex;
@@ -76,7 +90,6 @@ format:
             text-align: center;
             margin: 0;
             padding: 0;
-            background: linear-gradient(to bottom, #1a9cf3, white);
         }
 
         .container-affiliate {
@@ -107,10 +120,12 @@ format:
     </style>
 </head>
 <body>
+  <div class="gradient-bg">
 
     <!-- Hero Section -->
   <header class="hero-section">
-      <div class="container">
+    
+      <div class="container rounded-2xl popout">
           <h3>Unlock Insight with Simulation & Interactive Dashboards</h3>
           <p>At DataSquared, we transform complex data into clear, actionable insight. Specializing in advanced simulation modeling and bespoke Shiny web applications, we help organizations make smarter, data-driven decisions. Whether you're optimizing operations, forecasting scenarios, or visualizing your data in real time, we build tailored solutions that bring clarity and confidence to every decision.</p>
           <br>
@@ -122,19 +137,19 @@ format:
   <div class="underline"></div>
 
 <div class="container-services">
-    <div class="box box1">
+    <div class="box box1 rounded-2xl popout">
       <img src="./files/icon_gen/output/simulation_hex.png" alt="Simulation">
       <h4>Simulation</h4>
       <p>Discrete-event simulation allows organisations to optimise resource allocation and improve process efficiency without the risk of real-world disruptions.</p>
     </div>
 
-    <div class="box box2">
+    <div class="box box2 rounded-2xl popout">
       <img src="./files/icon_gen/output/shiny_hex.png" alt="Shiny">
       <h4>Shiny Apps</h4>
       <p>Using either R or Python, Shiny allows organisations to develop a wide range of web applications, from simple dashboards to enterprise-grade software.</p>
     </div>
 
-    <div class="box box3">
+    <div class="box box3 rounded-2xl popout">
       <img src="./files/icon_gen/output/workshops_hex.png" alt="Workshops">
       <h4>Training</h4>
       <p>In order to elevate data literacy we offer workshops in statistical analysis, data visualisation and simulation.</p>
@@ -153,6 +168,7 @@ format:
         </div>
 
     </div>
+  </div>
 
 
 </body>
