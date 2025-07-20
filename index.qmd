@@ -35,7 +35,7 @@ format:
 
       .hero-section {
           text-align: center;
-          padding: 100px 20px;
+          padding: 20px 20px;
       }
 
       .rounded-2xl {
@@ -66,12 +66,12 @@ format:
           padding: 10px;
           width: 430px;
           height: 600px;
-          /* border: 0.25px solid #000; */
           display: flex;
           flex-direction: column;
           align-items: center;
           text-align: center;
-          background-color: #edeff7;
+          background-image: linear-gradient(to bottom, #e3eefb, #ffffff);
+          /* background-color: #edeff7; */
         }
 
         .box img {
