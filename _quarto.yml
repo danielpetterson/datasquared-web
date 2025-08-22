@@ -11,7 +11,7 @@ website:
   #  ![](files/img/index-logo.png){width=5in} 
   site-url: "https://www.datasqua.red"
 
-  favicon: "/files/img/favicon.png"
+  favicon: "/files/img/logo_favicon.ico"
 
   navbar:
     pinned: true
